@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrestamoRechazadoException
+comment0.text=\r\n\ Excepci\u00F3n\ que\ ocurre\ cuando\ el\ pr\u00E9stamo\ no\ puede\ ser\ realizado.\r\n\ \r\n\ @author\ Esquen\u00F3n\ Ignacio\ Agust\u00EDn\r\n\ @version\ 9/11/2024\r\n
+comment1.params=mensaje
+comment1.target=PrestamoRechazadoException(java.lang.String)
+numComments=2

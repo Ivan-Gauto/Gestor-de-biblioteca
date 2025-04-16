@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LibroNoPrestadoException
+comment0.text=\r\n\ Clase\ que\ representa\ una\ excepcion\ a\ un\ libro\ no\ prestado\ \r\n
+comment1.params=mensaje
+comment1.target=LibroNoPrestadoException(java.lang.String)
+numComments=2

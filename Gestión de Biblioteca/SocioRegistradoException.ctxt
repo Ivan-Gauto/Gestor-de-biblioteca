@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SocioRegistradoException
+comment0.text=\r\n\ Excepci\u00F3n\ que\ ocurre\ al\ intentar\ registrar\ un\ socio\ ya\ registrado\ en\ la\ biblioteca\r\n\ \r\n\ @author\ Esquen\u00F3n\ Ignacio\ \r\n\ @version\ 10/11/2024\r\n
+comment1.params=mensaje
+comment1.target=SocioRegistradoException(java.lang.String)
+numComments=2
